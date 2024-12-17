@@ -171,7 +171,7 @@ Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE
 ## 🌐 Contato
 Caso tenha dúvidas ou precise de ajuda:
 - **Athos Schrapett**
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- [LinkedIn](https://www.linkedin.com/in/athos-louzeiro-schrapett)
 - [GitHub](https://github.com/AthosSchrapett)
 
 ---
